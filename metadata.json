@@ -1,0 +1,6 @@
+{
+  "name": "Interactive PC Explorer 3D",
+  "description": "Interaktive 3D-Lernanwendung zur Erkundung aller 19 Hardware-Komponenten, Datenflüsse, Explosionsansichten und Fehlerszenarien eines modernen Desktop-PCs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
